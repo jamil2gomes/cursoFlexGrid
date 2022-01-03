@@ -1,3 +1,9 @@
+# Curso Alura  - Flexbox e Grid CSS
+
+# Demonstração
+
+https://user-images.githubusercontent.com/24705347/147967786-85a7062b-f730-4f90-8676-beb7268367a0.mp4
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
